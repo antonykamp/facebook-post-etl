@@ -139,7 +139,7 @@ def execute_on_args():
     parser.add_argument(
         "--filtered_posts",
         type=str,
-        default="posts",
+        default="posts2",
         help="Folder to save filtered posts",
     )
     parser.add_argument(

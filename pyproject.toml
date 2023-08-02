@@ -12,6 +12,8 @@ facebook-scraper = "^0.2.59"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
+matplotlib = "^3.7.1"
+pandas = "^2.0.1"
 
 [build-system]
 requires = ["poetry-core"]
